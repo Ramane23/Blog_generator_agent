@@ -103,7 +103,7 @@ You can view traces in your LangSmith dashboard under the `blog-generator-agent`
 
 ## 🧪 Example Usage (API Call)
 
-**Endpoint:** `/generate`
+**Endpoint:** `/blogs`
 
 **POST Body:**
 ```json
