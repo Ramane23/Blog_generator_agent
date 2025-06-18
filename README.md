@@ -116,7 +116,7 @@ You can view traces in your LangSmith dashboard under the `blog-generator-agent`
 This request will generate a blog post on the specified topic and return the translation in the selected language only.
 
 > Supported values for `language`:  
-> `"french"`, `"spanish"`, `"japanese"`, `"chinese"`, `"russian"`, `"portuguese"`, `"hindi"`, or `"all"` to receive translations in every supported language.
+> `"french"`, `"spanish"`, `"japanese"`, `"chinese"`, `"russian"`, `"portuguese"`, `"hindi"` to receive translations in every supported language.
 
 ---
 
